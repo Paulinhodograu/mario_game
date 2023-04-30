@@ -1,3 +1,5 @@
 Testando alterações 
 
-testando pull
+testando push
+
+push deu certo
